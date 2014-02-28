@@ -24,6 +24,13 @@ A variation based on Base16 Eighties Dark color scheme.
 
 ![image](Screenshots/spacegray-eighties.png)
 
+
+#### Spacegray Eighties Formal
+
+A variation based on Base16 Eighties Dark color scheme.
+
+![image](Screenshots/spacegray-eighties-formal.png)
+
 *The font used in the screenshots is __Source Code Pro__.*
 
 ***
